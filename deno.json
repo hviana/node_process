@@ -1,0 +1,5 @@
+{
+  "name": "@hviana/node-process",
+  "version": "1.0.0",
+  "exports": "./node_process.js"
+}
